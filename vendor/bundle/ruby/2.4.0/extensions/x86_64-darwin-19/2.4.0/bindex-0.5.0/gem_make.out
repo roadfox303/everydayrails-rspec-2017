@@ -1,0 +1,15 @@
+current directory: /Users/roadfox303/workspace/everydayrails-rspec-2017-01-untested/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/Users/roadfox303/.rbenv/versions/2.4.9/bin/ruby -r ./siteconf20201001-38959-7nqjiv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/roadfox303/workspace/everydayrails-rspec-2017-01-untested/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/roadfox303/workspace/everydayrails-rspec-2017-01-untested/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/roadfox303/workspace/everydayrails-rspec-2017-01-untested/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20201001-38959-l35icp/bindex
